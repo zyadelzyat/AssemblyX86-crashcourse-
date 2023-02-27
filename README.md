@@ -35,14 +35,9 @@ EIP //NEXT INSTRUCTION POINTER
 ## Stack 
 stack memory is a type of memory that stores data in a Last In First Out (LIFO) format. It is a special type of memory that is used to store local variables and function parameters when a program is running. It is also used to store return addresses when functions are called. Stack memory is allocated and released very efficiently, making it the most efficient type of memory for storing temporary data .
 
-stack (LIFO)last in first out 
+stack (LIFO)last in first out , stack used 2 instructions PUSH AND POP : push its put data and pop  get data out
+![image-1](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png) <
 
-stack used 2 options , PUSH AND POP
-
-push its put data and pop  get data out
-![image-1](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png) <br>
-"stack grow down"
-![image-2](https://www.secpod.com/blog/wp-content/uploads/2013/12/Untitled123.png) <br>
 
 ## asm instructions
 ----------------
