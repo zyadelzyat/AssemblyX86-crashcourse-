@@ -12,9 +12,9 @@ in this article just a quick intro to it and some important notes .
 sourcecode ➡ assembler make objectcode("machine language") ➡ linker make it exe ➡ os loader get it in output when we run it
 
 ## registers
-registers is small unit in cpu , they are used to store data and instructions that the CPU needs to access quickly
+registers is small unit in cpu , they are used to store data and instructions that the CPU needs to access quickly , there is general purpose refisters , flags and segment registers
 
-general purpose:
+general purpose refisters:
 
 | 4bytes        | 2bytes  | notes                                   |
 | ------------- |:-------:| ---------------------------------------:|
