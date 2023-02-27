@@ -40,9 +40,9 @@ stack (LIFO)last in first out
 stack used 2 options , PUSH AND POP
 
 push its put data and pop  get data out
-![image-1](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png) 
+![image-1](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png) <br>
 "stack grow down"
-![image-2](https://www.secpod.com/blog/wp-content/uploads/2013/12/Untitled123.png) 
+![image-2](https://www.secpod.com/blog/wp-content/uploads/2013/12/Untitled123.png) <br>
 
 ## asm instructions
 ----------------
