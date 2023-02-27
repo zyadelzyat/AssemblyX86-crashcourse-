@@ -1,6 +1,6 @@
-# AssemblyX86-crashcourse-
+# AssemblyX86-crashcourse
 A Quick intro to assembly X86 , with important notes and resources
-ASM
+ASSEMBLY X86
 --------------------------------------
 assembly we can consider its a mid level language between human and machine languages , if you reverse engineer or a malware analyst you should learn assembly to able to read and understand the code .
 
