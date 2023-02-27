@@ -16,17 +16,16 @@ registers is small unit in cpu , they are used to store data and instructions th
 
 general purpose:
 
-|size   | size  | notes                                   |
-|4bytes | 2bytes                                          |  
-|:------|:------|:------                                  | 
-|eax    | ax    |//store value                            |    
-|ecx    | cx    |//counte "looping"                       |    
-|edx    | dx    |//i/o pointer                            |   
-|ebx    | bx    |                                         |    
-|esp    | sp    |//STACK pointer                          |    
-|ebp    | bp    |//STACK base pointer for local variables |                          
-|esi    | si    |//SOURCE                                 |   
-|edi    | di    |//DESTINATION                            |    
+| 4bytes        | 2bytes  | notes                                   |
+| ------------- |:-------:| ---------------------------------------:|
+| eax           | ax      | store value                             |
+| ecx           | cx      | counte "looping"                        |
+| edx           | dx      | i/o pointer                             |
+| ebx           | bx      | base pointer                            |
+| esp           | sp      | STACK pointer                           |
+| ebp           | bp      | STACK base pointer for local variables1 |
+| esi           | si      | SOURCE                                  |
+| edi           | di      | DESTINATION                             |
 
 flags:
 
@@ -80,7 +79,7 @@ or immediate value "just a number or value"
 ----------------------------------------------------------------
 ### we can put assembly in 3 categories
 
-==data manipulation==
+**data manipulation**
 
 ADD,SUB,MUL,DIV,NEG,INC,DEC
 
@@ -88,7 +87,7 @@ OR,XOR,AND,NOT
 
 SHL,SHR,ROL,ROR
 
-==data transfer==
+**data transfer**
 
 MOV,MOVZX,MOVSX "mov data form src to dst"
 
@@ -98,7 +97,7 @@ PUSH,POP,PUSHAD,POPAD
 
 MOVSB,LODSB,STOSB
 
-==program control is two cases :==
+**program control is two cases :**
 
 1-unconditional 
 JMP, ""
