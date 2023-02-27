@@ -78,9 +78,9 @@ or immediate value "just a number or value"
 
 #### note some times [0123345 this just example number ] means get the get the value of the address
 ----------------------------------------------------------------
-### we can divid asm in 3 cataegories
+### we can put assembly in 3 categories
 
-data manipulation
+==data manipulation==
 
 ADD,SUB,MUL,DIV,NEG,INC,DEC
 
@@ -88,7 +88,7 @@ OR,XOR,AND,NOT
 
 SHL,SHR,ROL,ROR
 
-data transfer
+==data transfer==
 
 MOV,MOVZX,MOVSX "mov data form src to dst"
 
@@ -98,7 +98,7 @@ PUSH,POP,PUSHAD,POPAD
 
 MOVSB,LODSB,STOSB
 
-program control is two cases :
+==program control is two cases :==
 
 1-unconditional 
 JMP, ""
@@ -107,8 +107,6 @@ CALL,RET "call and return function"
 2-conditional
 JNZ,JZ,JCC...,LOOP "like if , if else , else , and loop"
 
-repeat
-REP
 ----------------------------------------------------------------
 Resources to learn assembly x86
 
