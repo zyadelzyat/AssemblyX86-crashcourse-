@@ -115,7 +115,7 @@ Resources to learn assembly x86
 
 [Arabic shell code with assembly](https://www.youtube.com/playlist?list=PLiF9Gb9oy4n4v8cidEJ1izE2L9wrgnkKU)
 
-English articles one of best resources
+English articles one of best resources (64 bit)
 [1](https://revers.engineering/applied-re-basic-architecture/)
 [2](https://revers.engineering/applied-re-the-stack/)
 [3](https://revers.engineering/applied-re-exceptions/)
